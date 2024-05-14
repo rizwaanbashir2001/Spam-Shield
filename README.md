@@ -1,4 +1,4 @@
-# Spam-Hound - interface to detect recieved sms if fake or not
+# Spam-Shield - interface to detect recieved sms if fake or not
 ### Demo: [Youtube](#main)
 
 ## Requirements (installable via pip)

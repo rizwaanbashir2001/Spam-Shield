@@ -26,7 +26,7 @@
  		```
 3. **Run the Program**
 	```
-	python main.py
+	python app.py
 	```
 	
 4. **Enter your Spam**
